@@ -1,0 +1,69 @@
+Data Analytics
+
+
+
+
+                 SESSION 23:
+                  Assignment 1
+
+
+
+
+                                 1
+Data Analytics
+
+
+Table of Contents
+1.Introduction ............................................................................................................................................... 3
+2.Objective .................................................................................................................................................... 3
+3.Prerequisites .............................................................................................................................................. 3
+4.Associated Data Files ................................................................................................................................. 3
+5.Problem Statement .................................................................................................................................... 3
+6.Expected Output ........................................................................................................................................ 3
+7.Approximate Time to Complete Task ........................................................................................................ 3
+
+
+
+
+                                                                                                                                                               2
+Data Analytics
+
+
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+This assignment will test your skills using R.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+Not applicable.
+
+5. Problem Statement
+   1. Perform the below given activities:
+   a. Take a sample data set of your choice
+   b. Apply random forest, logistic regression using Spark R
+   c. Predict for new dataset
+
+
+
+
+                                                                               3
+Data Analytics
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+30 mins.
+
+
+
+
+                                       4
+
